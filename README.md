@@ -11,3 +11,4 @@ Discussions about this project are conducted on wiki pages:
 - Igor  ([LinkedIn](https://www.linkedin.com/in/igor-wieczorek-022926120) | [Github](https://github.com/s4d8w))
 - Łukasz K.   ([Github](https://github.com/lukaszk4))
 - Łukasz S.   ([LinkedIn](https://www.linkedin.com/in/sawaniewski/) | [Github](https://github.com/lsawaniewski))
+- Michał ([Github](https://github.com/kozolex))
