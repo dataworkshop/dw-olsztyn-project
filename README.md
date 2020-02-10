@@ -12,3 +12,4 @@ Discussions about this project are conducted on wiki pages:
 - Łukasz K.   ([Github](https://github.com/lukaszk4))
 - Łukasz S.   ([LinkedIn](https://www.linkedin.com/in/sawaniewski/) | [Github](https://github.com/lsawaniewski))
 - Michał ([Github](https://github.com/kozolex))
+- Robert ([LinkedIn](https://www.linkedin.com/in/rgruberski/) | [Github](https://github.com/rgruberski))
