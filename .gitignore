@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# db_config
+president_candidates_recognition/src/db_manager/db_config.py
