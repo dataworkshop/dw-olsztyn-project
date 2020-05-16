@@ -1,6 +1,7 @@
 # Welcome to Olsztyn Data Workshop project page!
-Discussions about this project are conducted on wiki pages:
-[Wiki](https://github.com/dataworkshop/dw-olsztyn-project/wiki)
+
+## Our projects:
+- [President Candidates Recognition](https://github.com/dataworkshop/dw-olsztyn-project/tree/master/president_candidates_recognition)
 
 ## More about our group: 
 - Olsztyn @ DataWorkshop Club: [#olsztyn](https://dataworkshopclub.slack.com/messages/CG6AP9W00)
