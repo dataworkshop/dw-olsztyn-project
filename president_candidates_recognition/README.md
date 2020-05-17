@@ -1,3 +1,6 @@
+
+<img src="https://github.com/dataworkshop/dw-olsztyn-project/raw/master/president_candidates_recognition/img/wyborywtvLogoNoWirus.png" width="400"/>
+
 ## Project description
 
 The project consists in analyzing the content broadcast by the three largest TV stations in Poland: TVP (public television), TVN and Polsat (private television). 
