@@ -1,5 +1,6 @@
-
+<p align="center">
 <img src="https://github.com/dataworkshop/dw-olsztyn-project/raw/master/president_candidates_recognition/img/wyborywtvLogoNoWirus.png" width="400"/>
+</p>
 
 ## Project description
 
