@@ -9,5 +9,8 @@ Dzięki za liczny udział stałych bywalców i pozdrowienia dla osób, które do
 Jeśli z jakiegoś powodu nie mogliście uczestniczyć w naszych warsztatach, poniższy link zaprowadzi Was do materiałów, które przerabialiśmy w ich trakcie: <br>
 [Wprowadzenie do Pandas - materiały warsztatowe](https://github.com/lsawaniewski/pandas_basics_workshop) <br><br>
 
-Dodatkowo, niedługo opublikujemy nagranie ze spotkania (wyłącznie z części prezentacji, ale jeśli macie jakiekolwiek pytania - piszcie śmiało 😊).
+[Nagranie](https://www.youtube.com/watch?v=R326k8knnMA) <br>
+[![Nagranie](https://img.youtube.com/vi/R326k8knnMA/0.jpg)](https://www.youtube.com/watch?v=R326k8knnMA) <br>
+
+Nagranie ze spotkania obejmuje wyłącznie część dot. prezentacji, ale jeśli macie jakiekolwiek pytania - piszcie śmiało 😊.
 
