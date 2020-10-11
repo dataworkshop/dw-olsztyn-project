@@ -17,7 +17,7 @@ Based on the data, the application generates interactive charts that allow to an
 
 ## Results
 
-* Interactive application - work in progress
+* Interactive [application](http://wyborywtv.herokuapp.com/) 
 * Examples of detection - 
 [1](samples/video)
 [2](samples/screenshots)
